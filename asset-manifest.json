@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-decastro-navbar/static/css/main.c325c11d.css",
+    "main.js": "/ws101-decastro-navbar/static/js/main.776238c6.js",
+    "index.html": "/ws101-decastro-navbar/index.html",
+    "main.c325c11d.css.map": "/ws101-decastro-navbar/static/css/main.c325c11d.css.map",
+    "main.776238c6.js.map": "/ws101-decastro-navbar/static/js/main.776238c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c325c11d.css",
+    "static/js/main.776238c6.js"
+  ]
+}
